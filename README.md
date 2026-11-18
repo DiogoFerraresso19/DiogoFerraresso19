@@ -28,4 +28,5 @@ Aplicação Full Stack (Client-Server) desenvolvida para gerenciar operações d
 
 ### 📫 Onde me encontrar
 
-* **LinkedIn:** [://linkedin.com](https://linkedin.com/in/diferraresso19)
+* **LinkedIn:** [diferraresso19](linkedin.com/in/diferraresso19)
+* **GitHub:** [@DiogoFerraresso19](https://github.com/DiogoFerraresso19)
