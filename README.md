@@ -9,10 +9,10 @@ Profissional formado em **Gestão da Tecnologia da Informação**, com foco no d
 ### 🚀 Projeto em Destaque
 
 #### ♻️ [sisRec - Sistema de Automação para Ecopontos de Reciclagem](https://github.com)
-Aplicação Full Stack (Client-Server) desenvolvida para gerenciar operações de reciclagem com rastreabilidade, auditabilidade e controle de acesso.
-* **Backend:** Java 17, Spring Boot, Spring Data JPA, PostgreSQL e Lombok.
-* **Frontend:** React (Vite), React Router Dom e Axios.
-* **Destaques técnicos:** Controle de Acesso Baseado em Funções (RBAC), criptografia de credenciais com BCrypt, Soft Delete para integridade histórica e travas de segurança na operação de balança.
+Aplicação Full Stack construída com Java, Spring Boot, React e PostgreSQL.
+
+#### 💳 [PayFlow - Sistema de Gestão Financeira e Fluxo de Pagamentos](https://github.com)
+Aplicação Full Stack para controle de transações financeiras e fluxo de pagamentos, construída com Java, Spring Boot e React.
 
 ---
 
